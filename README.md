@@ -1,6 +1,5 @@
 -<h2>Hello There...</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlicht&layout=compact&exclude_repo=SurveyForm_FreeCodeCamp
-)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlicht&layout=compact&exclude_repo=SurveyForm_FreeCodeCamp)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=victorlicht&show_icons=true&theme=transparent&hide_border=true"
