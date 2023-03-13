@@ -7,11 +7,4 @@
 />
   <img src="https://github-readme-stats.vercel.app/api?username=victorlicht&show_icons=true" />
 </picture>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlicht&show_icons=true&theme=transparent"
-  media="(hide_border: true)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlicht&show_icons=true&theme=transparent" />
-
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlicht)](https://github.com/anuraghazra/github-readme-stats)
