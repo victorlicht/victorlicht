@@ -1,2 +1,2 @@
 -<h2>Hello There...</h2>
--<h5>I am still working for my README, I am Abderrahmane Mihoubi a CS Student 2nd year, I am interested in C/C++, Java, SpringBoot, Linux, HTML/CSS, JavaScript and React.</h5>
+-<h5>I am still working for my README, I am Abderrahmane Mihoubi a CS Student 2nd year, Still in progress ... :C, Java, SpringBoot, Linux, HTML/CSS, JavaScript,TypeScript and React, MySQL, PostgreSQL.</h5>
