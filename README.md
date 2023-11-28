@@ -1,2 +1,6 @@
 -<h2>Hello There...</h2>
--<h5>I am still working for my README, I am Abderrahmane Mihoubi a CS Student 2nd year, Still in progress ... :C, Java, SpringBoot, Linux, HTML/CSS, JavaScript,TypeScript and React, MySQL, PostgreSQL.</h5>
+-<h5>I am still working for my README, </br>
+I am Abderrahmane Mihoubi, you can call me Victor Licht too </br>
+I am on the last year of bachelor, and I still learning </br>
+My Stack: Java, SpringBoot, React, C, Linux, Bash, JavaScript, HTML/CSS, PostgreSQL, MySQL...
+</h5>
