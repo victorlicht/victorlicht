@@ -26,8 +26,8 @@ I'm currently focusing my efforts on the following projects:
 
 I'm always open to collaboration and new opportunities. Feel free to reach out if you'd like to discuss projects, exchange ideas, or simply connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/your-github-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abderrahmanemihoubi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/victorlicht)
 
 ## Questions?
 
